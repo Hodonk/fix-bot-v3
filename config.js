@@ -58,23 +58,23 @@ global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '08XXXXXXXXXX' //dana
-global.povo = '08XXXXXXXXXX' //ovo
-global.pgopay = '08XXXXXXXXXX' //gopay
-global.plinkaja = '08XXXXXXXXXX' //link aja
+global.pdana = '083837709331' //dana
+global.povo = '083837709331' //ovo
+global.pgopay = '083837709331' //gopay
+global.plinkaja = '083837709331' //link aja
 global.ppulsa = '08XXXXXXXXXX' //telkomsel
-global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
+global.ppulsa2 = '083837709331' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '6282127487538'
-global.namebot = 'WH-MODS-BOT-V1'
-global.nameown = 'WH MODS DEV'
+global.nomorbot = '6287753965174'
+global.nomorown = '6283837709331'
+global.namebot = 'F-BOT'
+global.nameown = 'Fuad'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'Nama Github Belum Diisi' // nama github lu
-global.linkgithub = 'Link Githu Belum Diisi' // tarok link github lu
+global.namagithub = 'F-ICS' // nama github lu
+global.linkgithub = '' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282127487538', 'WH MODS DEV', true],
+  ['6283837709331', 'Fuad', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
